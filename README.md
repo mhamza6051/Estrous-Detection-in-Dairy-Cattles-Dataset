@@ -4,7 +4,7 @@ Data Set for your Project
 ---
 To accurately detect estrus in cattle, a combination of behavioral and physiological parameters is essential. In this research, four primary parameters steps, jumps, voice pitch, and body temperature were used. During the estrus phase, cows show increased physical activity, reflected in a higher number of steps and jumps. Voice pitch often elevates due to restlessness and hormonal changes, while a slight rise in body temperature further indicates the onset of heat. In addition to these indicators, mucus discharge serves as a strong visual sign of estrus; its presence typically confirms that the cow is in full heat, while its absence suggests the opposite. Hormonal analysis also plays a critical role low levels of progesterone and high levels of estrogen are typically observed during estrus, providing a biochemical confirmation of the animal’s fertility status. Together, these behavioral and hormonal cues improve the accuracy of estrus detection, helping farmers optimize breeding decisions and improve herd reproductive performance.
 ---
-## Featyres of Dataset
+## Features of Dataset
 - **Steps:**
   
   During estrus, cows exhibit increased physical activity. A noticeable rise in the number of steps taken indicates restlessness, which is a common behavioral change associated with the heat period. Monitoring step count helps in identifying this elevated movement pattern.
